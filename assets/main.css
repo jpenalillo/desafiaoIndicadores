@@ -1,0 +1,19 @@
+#result{
+    background-color: #FFFF;
+    width: 1200px !important;
+    height: 600px !important;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+.row{
+    width: 560px !important;
+}
+.col-lg-4{
+    width: 300px !important;
+}
